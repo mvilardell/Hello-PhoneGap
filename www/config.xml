@@ -12,10 +12,6 @@
         Hello PhoneGap sample application that responds to the deviceready event.
     </description>
 
-    <!--<author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
-    </author> -->
-
     <!-- Define the main entry-point to the application -->
     <content src="index.html" />
 
